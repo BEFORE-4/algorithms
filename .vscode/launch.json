@@ -1,0 +1,45 @@
+{
+    // 使用 IntelliSense 了解相关属性。 
+    // 悬停以查看现有属性的描述。
+    // 欲了解更多信息，请访问: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch Solution86",
+            "request": "launch",
+            "mainClass": "leetcode.Solution86",
+            "projectName": "algorithms_65239ae1"
+        },
+        {
+            "type": "java",
+            "name": "Launch ListNode",
+            "request": "launch",
+            "mainClass": "leetcode.ListNode",
+            "projectName": "algorithms_65239ae1"
+        },
+        {
+            "type": "java",
+            "name": "Launch Test",
+            "request": "launch",
+            "mainClass": "chap1.Test",
+            "projectName": "algorithms_65239ae1",
+            "args": ".2 .5 .5 .6 1000"
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}",
+            "args": ".2 .5 .5 .6 1000"
+        },
+        {
+            "type": "java",
+            "name": "Launch BinarySearch",
+            "request": "launch",
+            "mainClass": "chap1.BinarySearch",
+            "projectName": "algorithms_65239ae1",
+            "args": ".2 .5 .5"
+        }
+    ]
+}
